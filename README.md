@@ -1,66 +1,78 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## ✈InstaStay Hotel Reservation System✨
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### Introduction🏬
+InstaStay is a modern hotel focusing on an "Instagrammable" concept, offering attractive interiors and areas designed specifically for photography. To effectively manage reservations, guest data, and payments, InstaStay requires an advanced and user-friendly reservation system.
 
-## About Laravel
+### Research Objectives🌎
+1. Design and develop an efficient and integrated hotel reservation system for InstaStay Hotel.
+2. Optimize room, guest, reservation, and payment management to enhance operational efficiency.
+3. Create an intuitive and appealing user interface aligned with InstaStay Hotel's "Instagrammable" image.
+4. Analyze how the reservation system can support InstaStay Hotel's social media-based marketing strategy.
+5. Evaluate potential customer satisfaction improvements through the new reservation system implementation.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### Scope👓
+- Room data management: room types, availability, prices, and unique features.
+- Guest data management: personal information, preferences, and visit history.
+- Reservation process: online booking, confirmation, cancellation, and modification.
+- Integration with social media platforms, especially Instagram.
+- Data analysis to understand reservation trends and guest behavior.
+- Data security and privacy compliance with industry standards and regulations.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### Key Features🕹
+- Efficient integration of key features such as room management, guest data, reservation process, and payment processing.
+- Social media integration, especially with Instagram, adds significant value in attracting guests seeking "Instagrammable" experiences.
+- Intuitive and attractive user interface improves the booking process and enhances user experience.
+- Automation of many manual processes increases overall operational efficiency.
+- Comprehensive guest data management and integrated payment system provide a strong foundation for personalized services and increased customer loyalty.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Implications for the Hospitality Industry
+- **Instagrammable Trend:** Highlights the importance of integrating visual and experience-sharing aspects in modern hotel marketing strategies.
+- **Digitalization of Processes:** Emphasizes the need for the hospitality industry to transition to more integrated and efficient digital solutions.
+- **Service Personalization:** Comprehensive guest data management opens new opportunities for personalized services.
+- **Adaptability:** Success of InstaStay shows that hotels adapting to technological trends and consumer preferences will gain a competitive edge.
+- **Efficiency Improvement:** Advanced reservation systems can significantly improve operational efficiency and reduce costs.
 
-## Learning Laravel
+### Future Development Recommendations🔮
+1. **AI and Machine Learning Integration:** Implement AI algorithms for booking trend prediction, dynamic pricing, and more accurate personalization recommendations.
+2. **Expand Social Media Features:** Develop integration with other social media platforms besides Instagram and add features to facilitate real-time sharing.
+3. **VR/AR Technology:** Integrate Virtual Reality or Augmented Reality technology for virtual room and facility tours, enhancing online booking experience.
+4. **Data Security Enhancement:** Continuously improve data security protocols to protect sensitive customer information.
+5. **Mobile App Development:** Develop a comprehensive mobile app with additional features such as digital check-in and digital room keys.
+6. **IoT Integration:** Implement Internet of Things technology to enhance guest experience, such as automatic room temperature control or voice-based room service.
+7. **Advanced Data Analysis:** Develop more sophisticated analytics dashboards to provide deep insights into customer behavior and market trends.
+8. **Integrated Loyalty System:** Develop a fully integrated loyalty program with the reservation system, offering personalized rewards and experiences.
+9. **Collaboration Features:** Add features to facilitate group bookings and collaboration among guests for events or business trips.
+10. **Sustainability:** Integrate features supporting sustainable practices, such as options to reduce towel usage or optimize room energy usage.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### Technologies Used ❤
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) Laravel 11
+- ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) Blade
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP 8.3
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) Node.js
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) Tailwind CSS
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) SQL
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) VS Code
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### How to Use👕
+1. **Start Apache and MySQL servers.**
+2. **Migrate the database:**
+   ```bash
+   php artisan migrate
+   ```
+3. **Run the seeder:**
+   ```bash
+   php artisan db:seed --class=RolePermissionSeeder
+   ```
+4. **Start the development server:**
+   ```bash
+   php artisan serve
+   ```
+5. **Compile the assets:**
+   ```bash
+   npm run dev
+   ```
